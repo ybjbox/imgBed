@@ -1,5 +1,9 @@
 在线使用：https://img.403333.xyz/
 
+从 App Store 获取高清应用图标：https://icon.yukonga.top/ & https://yukonga.github.io/HQ-ICON/
+
+Google paly(https://play.google.com/store) 图标：右键新标签打开图片→删除=w240-h480-rw参数
+
 自定义配置接口
 
 <details>
